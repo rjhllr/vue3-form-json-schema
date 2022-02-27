@@ -1,4 +1,4 @@
-# Vue Form JSON Schema
+# Fork of Vue Form JSON Schema
 
 > A [JSON schema](https://json-schema.org) based form generator, bring your components!
 
