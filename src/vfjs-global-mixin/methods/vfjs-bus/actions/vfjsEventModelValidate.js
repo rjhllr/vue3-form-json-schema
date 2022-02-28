@@ -1,4 +1,4 @@
-import { isEqual } from 'lodash';
+import { isEqual } from 'lodash-es';
 import { VFJS_EVENT_FIELD_MODELS_VALIDATE } from '../../../../constants';
 
 function vfjsEventModelValidate({ vfjsModel, cb }) {

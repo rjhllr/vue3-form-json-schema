@@ -1,4 +1,4 @@
-import { get } from 'lodash';
+import { get } from 'lodash-es';
 
 function getVfjsSchemaPath(path, key) {
   const vfjsSchema = this.getVfjsSchema();

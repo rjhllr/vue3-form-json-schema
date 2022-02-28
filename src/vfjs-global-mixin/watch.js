@@ -1,4 +1,4 @@
-import { merge } from 'lodash';
+import { merge } from 'lodash-es';
 import {
   VFJS_EXTERNAL_COMPONENTS_PROP,
   VFJS_EXTERNAL_MODEL_PROP,

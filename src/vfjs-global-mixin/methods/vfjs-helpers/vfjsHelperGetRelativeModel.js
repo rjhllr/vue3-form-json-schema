@@ -1,6 +1,6 @@
 function vfjsHelperGetRelativeModel(model, parentModel) {
   if (model) {
-    return String(model).substr(parentModel.length + 1);
+    return String(model).substring(parentModel.length + 1);
   }
 
   return model;

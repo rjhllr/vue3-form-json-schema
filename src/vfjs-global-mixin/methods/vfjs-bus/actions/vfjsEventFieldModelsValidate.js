@@ -1,4 +1,4 @@
-import { get } from 'lodash';
+import { get } from 'lodash-es';
 import { VFJS_EVENT_FIELD_MODEL_VALIDATE } from '../../../../constants';
 
 function vfjsEventFieldModelsValidate({ vfjsModel, cb }) {

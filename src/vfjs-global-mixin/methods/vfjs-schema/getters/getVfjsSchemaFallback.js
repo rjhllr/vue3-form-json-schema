@@ -1,4 +1,4 @@
-import { get } from 'lodash';
+import { get } from 'lodash-es';
 
 function getVfjsSchemaFallback(key) {
   const keys = String(key).split('.');

@@ -1,4 +1,4 @@
-import { set, cloneDeep } from 'lodash';
+import { set, cloneDeep } from 'lodash-es';
 
 function vfjsHelperApplyFieldModel(key, value) {
   const vfjsModel = this.getVfjsModel();

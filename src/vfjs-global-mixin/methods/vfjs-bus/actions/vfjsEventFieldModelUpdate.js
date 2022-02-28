@@ -1,4 +1,4 @@
-import { get, isEqual, set } from 'lodash';
+import { get, isEqual, set } from 'lodash-es';
 import {
   VFJS_EVENT_MODEL_VALIDATE,
   VFJS_EVENT_STATE_UPDATE,

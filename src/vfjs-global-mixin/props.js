@@ -29,7 +29,7 @@ const props = {
   },
   [VFJS_EXTERNAL_ID_PROP]: {
     type: String,
-    default: () => Math.random().toString(36).substr(2, 9),
+    default: () => Math.random().toString(36).substring(2, 11),
   },
   [VFJS_EXTERNAL_OPTIONS_PROP]: {
     type: Object,

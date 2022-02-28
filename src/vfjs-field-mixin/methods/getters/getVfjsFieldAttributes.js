@@ -1,4 +1,4 @@
-import { isEmpty, merge } from 'lodash';
+import { merge } from 'lodash-es';
 import vfjsHelperFlattenVue2Properties from '../../../vfjs-global-mixin/methods/vfjs-helpers/vfjsHelperFlattenVue2Properties';
 
 function getVfjsFieldAttributes(

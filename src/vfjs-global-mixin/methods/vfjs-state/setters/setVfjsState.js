@@ -1,4 +1,4 @@
-import { isEqual } from 'lodash';
+import { isEqual } from 'lodash-es';
 import { VFJS_EVENT_STATE_UPDATED } from '../../../../constants';
 
 function setVfjsState(newState) {

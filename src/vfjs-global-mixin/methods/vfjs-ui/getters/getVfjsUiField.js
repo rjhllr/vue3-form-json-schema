@@ -1,4 +1,4 @@
-import { merge } from 'lodash';
+import { merge } from 'lodash-es';
 
 function getVfjsUiField(field) {
   if (this.getVfjsUiFieldVisible(field)) {
@@ -33,4 +33,4 @@ function getVfjsUiField(field) {
   return false;
 }
 
-export default getVfjsUiField
+export default getVfjsUiField;

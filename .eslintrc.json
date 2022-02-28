@@ -1,7 +1,6 @@
 {
   "root": true,
   "extends": "airbnb-base",
-  "parser": "babel-eslint",
   "env": {
     "browser": true
   },
@@ -9,7 +8,7 @@
     "max-len": [
       "error",
       {
-        "code": 80,
+        "code": 120,
         "ignoreComments": true
       }
     ],

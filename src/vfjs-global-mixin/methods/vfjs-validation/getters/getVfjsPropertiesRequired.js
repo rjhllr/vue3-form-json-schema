@@ -16,25 +16,25 @@ function getVfjsPropertiesRequired(errors) {
       if (error.params && error.params.missingProperty) {
         const key = error.params.missingProperty;
 
-        const errorDataPathPrefix = String(error.dataPath).substr(0, 1);
+        const errorDataPathPrefix = String(error.dataPath).substring(0, 1);
         let parent;
 
         switch (errorDataPathPrefix) {
           // JSONpath dot notation
           case '.':
-            parent = error.dataPath.substr(1);
+            parent = error.dataPath.substring(1);
             break;
 
           // JSONpath bracket notation
           case '[':
             parent = error.dataPath
-              .substr(2, error.dataPath.length - 4)
+              .substring(2, error.dataPath.length - 2)
               .replace("']['", '.');
             break;
 
           // JSONpointer notation with forward slashes
-          default:
-            parent = error.dataPath.substr(1).replace(/\//g, '.');
+          case '/':
+            parent = error.dataPath.substring(1).replace(/\//g, '.');
             break;
         }
 
