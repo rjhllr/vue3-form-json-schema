@@ -1,4 +1,25 @@
-# Fork of Vue Form JSON Schema
+# Experimental fork of Vue Form JSON Schema for Vue3
+
+## Changes
+
+* Replace webpack with **vite**
+* Create monorepo with **pnpm** for lib and examples
+* Integration of **turborepo** (really a benefit?)
+* Use **lodash-es** for easy treeshaking
+* Use latest **Ajv** lib
+* Refactor all examples using **Vue3 SFC with \<script setup\>**
+
+### Current issues
+
+- [ ] Make example 4 working
+- [ ] Solve Ajv strictTypes console log message
+- [ ] Improve turborepo config
+
+### Solved issues
+
+- [x] Bug with required fields (switch case was not null safe) 
+
+<hr/>
 
 > A [JSON schema](https://json-schema.org) based form generator, bring your components!
 

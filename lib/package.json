@@ -1,6 +1,6 @@
 {
   "name": "vue3-form-json-schema",
-  "version": "3.0.0-alpha.2",
+  "version": "3.0.0-alpha.mz2",
   "description": "Vue package for using forms with JSON schema",
   "author": "Tobias Järvelöv <tobias@jarvelov.se>",
   "license": "MIT",
@@ -9,7 +9,6 @@
     "builddev": "vite build --sourcemap",
     "lint": "eslint src"
   },
-
   "dependencies": {
     "ajv": "^8.10.0",
     "lodash-es": "^4.17.21"
