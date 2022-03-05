@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^3.2.31",
-    "vue3-form-json-schema": "link:..\\..\\lib"
+    "vue3-form-json-schema": "workspace:../../lib"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.4",

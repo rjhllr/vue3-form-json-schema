@@ -17,7 +17,7 @@ importers:
       '@vitejs/plugin-vue': ^2.2.4
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       vue: 3.2.31
       vue3-form-json-schema: link:../../lib
@@ -30,7 +30,7 @@ importers:
       '@vitejs/plugin-vue': ^2.2.4
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       vue: 3.2.31
       vue3-form-json-schema: link:../../lib
@@ -43,7 +43,7 @@ importers:
       '@vitejs/plugin-vue': ^2.2.4
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       vue: 3.2.31
       vue3-form-json-schema: link:../../lib
@@ -59,7 +59,7 @@ importers:
       bootstrap-vue-3: ^0.1.7
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       '@popperjs/core': 2.11.2
       bootstrap: 5.1.3_@popperjs+core@2.11.2
@@ -75,7 +75,7 @@ importers:
       '@vitejs/plugin-vue': ^2.2.4
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       vue: 3.2.31
       vue3-form-json-schema: link:../../lib
@@ -88,7 +88,7 @@ importers:
       '@vitejs/plugin-vue': ^2.2.4
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       vue: 3.2.31
       vue3-form-json-schema: link:../../lib
@@ -101,7 +101,7 @@ importers:
       '@vitejs/plugin-vue': ^2.2.4
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       vue: 3.2.31
       vue3-form-json-schema: link:../../lib
@@ -114,7 +114,7 @@ importers:
       '@vitejs/plugin-vue': ^2.2.4
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       vue: 3.2.31
       vue3-form-json-schema: link:../../lib
@@ -127,7 +127,7 @@ importers:
       '@vitejs/plugin-vue': ^2.2.4
       vite: ^2.8.6
       vue: ^3.2.31
-      vue3-form-json-schema: link:..\..\lib
+      vue3-form-json-schema: workspace:../../lib
     dependencies:
       vue: 3.2.31
       vue3-form-json-schema: link:../../lib
