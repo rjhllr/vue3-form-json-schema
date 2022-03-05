@@ -9,6 +9,26 @@
 * Use latest **Ajv** lib
 * Refactor all examples using **Vue3 SFC with \<script setup\>**
 
+### Try it out
+
+Clone the experimental fork
+
+`git clone https://github.com/miguelzapaton/vue3-form-json-schema.git`
+
+Get pnpm (if you don't have it installed globally)
+
+`npm i -D pnpm`
+
+Install dependencies (all in one go)
+
+`pnpm i`
+
+Build all packages (lib and examples)
+
+`pnpm build`
+
+...
+
 ### Current issues
 
 - [ ] Make example 4 working

@@ -1,5 +1,14 @@
 {
   "pipeline": {
+    "lint": {
+      "outputs": []
+    },
+    "dev": {
+      "cache": false,
+      "dependsOn": [
+        "vue3-form-json-schema#build"
+      ]
+    },
     "build": {
       "dependsOn": [
         "^build"
@@ -8,10 +17,7 @@
         "dist/**"
       ]
     },
-    "lint": {
-      "outputs": []
-    },
-    "dev": {
+    "preview": {
       "cache": false
     }
   }
