@@ -3,6 +3,7 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
+    "preview": "turbo run preview --parallel",
     "lint": "turbo run lint",
     "build:lib": "pnpm build --filter lib"
   },
