@@ -1,5 +1,5 @@
 {
-  "name": "example-3",
+  "name": "example-6",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^3.2.31",
-    "vue3-form-json-schema": "workspace:../../lib"
+    "vue3-form-json-schema": "workspace:../../../lib"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.4",

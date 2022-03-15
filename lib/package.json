@@ -31,8 +31,6 @@
     }
   },
   "peerDependencies": {
-    "ajv": "8",
-    "lodash-es": "4",
     "vue": "3.x"
   },
   "pnpm": {
