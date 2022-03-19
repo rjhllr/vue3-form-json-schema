@@ -1,6 +1,6 @@
 {
   "name": "vue3-form-json-schema",
-  "version": "3.0.0-alpha.mz2",
+  "version": "3.0.0-alpha.mz3",
   "description": "Vue package for using forms with JSON schema",
   "author": "Tobias Järvelöv <tobias@jarvelov.se>",
   "license": "MIT",
@@ -14,7 +14,7 @@
     "lodash-es": "^4.17.21"
   },
   "devDependencies": {
-    "eslint": "^8.10.0",
+    "eslint": "^8.11.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.25.4",
     "rollup-plugin-visualizer": "^5.6.0",

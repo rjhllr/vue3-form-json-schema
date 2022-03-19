@@ -30,13 +30,11 @@ Build all packages (lib and examples)
 ...
 
 ### Current issues
-
-- [ ] Make example 4 working
 - [ ] Solve Ajv strictTypes console log message
 - [ ] Improve turborepo config
 
 ### Solved issues
-
+- [X] Make example 4 working
 - [x] Bug with required fields (switch case was not null safe) 
 
 <hr/>
