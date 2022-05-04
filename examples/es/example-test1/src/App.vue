@@ -34,6 +34,11 @@ const uiSchema = [
       attrs: {
         placeholder: 'Please enter your first name',
       }
+    },
+    errorOptions: {
+      attrs: {
+        style: 'color: red',
+      }
     }
   },
   {
