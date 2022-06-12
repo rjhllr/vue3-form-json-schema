@@ -8,9 +8,9 @@
     "build:lib": "pnpm build --filter lib"
   },
   "devDependencies": {
-    "eslint": "^8.14.0",
+    "eslint": "^8.17.0",
     "prettier": "^2.6.2",
-    "turbo": "^1.2.6"
+    "turbo": "^1.2.16"
   },
   "pnpm": {
     "peerDependencyRules": {
