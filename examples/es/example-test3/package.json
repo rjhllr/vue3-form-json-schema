@@ -1,0 +1,20 @@
+{
+  "name": "example-test3",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "builddev": "vite build --sourcemap",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@oruga-ui/oruga-next": "^0.5.5",
+    "vue": "^3.2.37",
+    "vue3-form-json-schema": "workspace:^3.0.0-alpha.mz4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.12"
+  }
+}
