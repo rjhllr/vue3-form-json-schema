@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "rjhllr/vue3-form-json-schema",
+  "name": "vue3-form-json-schema",
   "version": "1.0.0",
   "scripts": {
     "build": "turbo run build",
