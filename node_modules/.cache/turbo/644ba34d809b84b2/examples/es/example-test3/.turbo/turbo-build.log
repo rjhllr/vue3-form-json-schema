@@ -1,0 +1,12 @@
+example-test3:build: cache hit, replaying output [2m644ba34d809b84b2[0m
+[35mexample-test3:build: [0m
+[35mexample-test3:build: [0m> example-test3@0.0.1 build /Users/robin/Documents/synqup/git-repos/vue3-form-json-schema/examples/es/example-test3
+[35mexample-test3:build: [0m> vite build
+[35mexample-test3:build: [0m
+[35mexample-test3:build: [0mvite v2.9.12 building for production...
+[35mexample-test3:build: [0mtransforming...
+[35mexample-test3:build: [0m✓ 66 modules transformed.
+[35mexample-test3:build: [0mrendering chunks...
+[35mexample-test3:build: [0mdist/index.html                  0.38 KiB
+[35mexample-test3:build: [0mdist/assets/index.0154a812.css   76.63 KiB / gzip: 10.39 KiB
+[35mexample-test3:build: [0mdist/assets/index.f7248165.js    472.80 KiB / gzip: 129.12 KiB

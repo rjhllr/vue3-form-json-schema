@@ -1,0 +1,11 @@
+vue3-form-json-schema:build: cache hit, replaying output [2m624d517fc9b85be2[0m
+[35mvue3-form-json-schema:build: [0m
+[35mvue3-form-json-schema:build: [0m> vue3-form-json-schema@3.0.0-alpha.mz4 build /Users/robin/Documents/synqup/git-repos/vue3-form-json-schema/lib
+[35mvue3-form-json-schema:build: [0m> vite build
+[35mvue3-form-json-schema:build: [0m
+[35mvue3-form-json-schema:build: [0mvite v2.9.12 building for production...
+[35mvue3-form-json-schema:build: [0mtransforming...
+[35mvue3-form-json-schema:build: [0m✓ 968 modules transformed.
+[35mvue3-form-json-schema:build: [0mrendering chunks...
+[35mvue3-form-json-schema:build: [0mdist/vue3-form-json-schema.es.js   330.34 KiB / gzip: 70.00 KiB
+[35mvue3-form-json-schema:build: [0mdist/vue3-form-json-schema.umd.js   169.19 KiB / gzip: 52.85 KiB
